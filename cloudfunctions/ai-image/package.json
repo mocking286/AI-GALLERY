@@ -1,0 +1,10 @@
+{
+  "name": "ai-image",
+  "version": "1.0.0",
+  "description": "AI Gallery DashScope text-to-image cloud function",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": ">=16"
+  }
+}
